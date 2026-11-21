@@ -1,3 +1,6 @@
+#https://github.com/BigCheese328/lab11-ML-LG.git
+#Partner 1: Marcos Lima
+#Partner 2: Lexie Gallagher
 import unittest
 from calculator import *
 
